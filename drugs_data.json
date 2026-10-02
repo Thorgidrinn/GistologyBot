@@ -1,0 +1,954 @@
+[
+  {
+    "id": 1,
+    "name": "Соскоб слизистой оболочки щеки человека (плоский эпителий полости рта)",
+    "photo": "AgACAgIAAxkDAAMIaXCzP1ZVYB2h03yHClMHVlLoaYYAAjUPaxvOKYlLSiM-YvqLTEYBAAMCAAN4AAM4BA",
+    "drawing": "images/рис11.jpg",
+    "staining": "",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Межклеточное вещество в РВСТ",
+    "photo": "AgACAgIAAxkDAAMtaXCzxJdVYmlTnTRZhypyWW1dKNwAAkYPaxvOKYlLgVA_bxydgUsBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAxkDAAMyaXCzzQzvEx3uydsrxQAB5Wqcgd02AAJJD2sbzimJSzAJvJLSbR-CAQADAgADeAADOAQ",
+    "staining": "железный гематоксилин",
+    "description": "-фибробласты -коллагеновые волокна -эластические волокна"
+  },
+  {
+    "id": 3,
+    "name": "Гиалиновый хрящ",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMGaXDBuXP88ViF92ymHW49Cu7w1ZAAAwxrGzfyiEsGld5HILsTMAEAAwIAA3gAAzgE",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMHaXDBu0nN6w9mXqm-9GWTYX5nHKoAAgEMaxs38ohLzm58SH28Nx8BAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "-клетки хряща -межклеточное вещество хряща -надхрящница "
+  },
+  {
+    "id": 4,
+    "name": "Тигроидное вещество в нервных клетках спинного мозга",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMIaXDBvQ1WI0EN_ALRtHjUPCnCVCYAAgIMaxs38ohLMFpPFL21NhABAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMJaXDBwwmBuVCqeVo0-L8tndRcPsYAAgMMaxs38ohLb0r_G-uAeoYBAAMCAAN3AAM4BA",
+    "staining": "по Нисслю",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Аппарат Гольджи в нервных клетках спинального ганглия",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMKaXDBxbxeBSb2cV5qUUKrBhUXkakAAgQMaxs38ohLmdrIGyeuO2sBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMLaXDBx7Hz2HrefzG2gNAt2pwiA4IAAgYMaxs38ohLkZc4AjZaU1UBAAMCAAN4AAM4BA",
+    "staining": "импрегнация серебром по методу К. Гольджи",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Нервные клетки передних рогов спинного мозга",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMMaXDByi2gOA1wHK3snf8F3jo1iAYAAgcMaxs38ohLT2jUXO11m40BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMNaXDBzHi1WVZpjFtMAAFMNQ_2mvlLAAIIDGsbN_KIS-CX3LJzCLXWAQADAgADeAADOAQ",
+    "staining": "метод серебрения по Кахалю",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Митохондрии в эпителиальных клетках кишечника аскариды",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMOaXDBzj78S7zlrNtHdVgDuk41SyIAAgkMaxs38ohLg52qOIlxDnkBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMPaXDB0ErXzdJYFoFlZGQzJClTwTEAAgoMaxs38ohLr6kPWVPFyPMBAAMCAAN4AAM4BA",
+    "staining": "по Альтману",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Включения гликогена в клетках печени",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMQaXDB0l8IDU9sV8GHNxZU12x6Q0IAAgsMaxs38ohLzLnufG6lxOoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMRaXDB1EM_JAa-fp4vzWZnTuoBeGoAAgwMaxs38ohLxOfiuQOjMPwBAAMCAAN4AAM4BA",
+    "staining": "по методу Беста (ШИК-реакция + гематоксилин)",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "Жировые включения в клетках печени аксолотля",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMSaXDB1i-ezLDzU8LaggP3gg5cZMkAAg0Maxs38ohLn9llzl3Eu-cBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMTaXDB2Cc_t2CI_0bAJRx98liAk-oAAg4Maxs38ohLOExsL4CSYDkBAAMCAAN4AAM4BA",
+    "staining": "осмиевая кислота и кармин",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Гранулы зимогена в клетках поджелудочной железы",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMUaXDB4Nd60btqKTzKoJ3o5d91K3AAAg8Maxs38ohL56-Ogbgsh1YBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMVaXDB4gGS0soEve70p-grZPD2gwEAAhAMaxs38ohLAAHF1187b50pAQADAgADeAADOAQ",
+    "staining": "железный гематоксилин Гейденгайна",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "Секреторные гранулы в клетках Лейдига кожи аксолотля",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMWaXDB63BqlA05CxIa0ho998MmURQAAhEMaxs38ohLJ99ulu_8FycBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMXaXDB74_e3SlTdHIF6XUCNDYCtw4AAhIMaxs38ohLyG5gwHtFPQwBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "Пигментные включения в клетках эпителия кожи головастика",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMYaXDB8RWlkLkWr2rRVfxT6M05gWAAAhMMaxs38ohLTyfkeeRKwa8BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMZaXDB89O1EzDlZHggnAiVfSY2rMEAAhQMaxs38ohLMoLpl_zNLzYBAAMCAAN4AAM4BA",
+    "staining": "тотальный неокрашенный препарат",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "Яйцеклетка беззубки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMaaXDB9XMSUK-wQHKN5pUcWuks-8oAAhUMaxs38ohL20yAlynT61gBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMbaXDB98EuUOjWjFOswqdIFO1c52MAAhYMaxs38ohL8JWM2jPyXr0BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин или железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Яйцеклетка лягушки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMcaXDB-asKLj0JjFPI1FmFXwQtfK8AAhcMaxs38ohL6bGInvqkFtgBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMdaXDB_Hp-V4UfsMGNR6Ivisv2IHQAAhgMaxs38ohLGolkZbHzmfsBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "Митоз в растительных клетках",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMeaXDCDSCkoboEc4KWQNVAejU0EucAAhsMaxs38ohLlOqW18nDvRkBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMfaXDCD3-mpazXemfB-WWT_-Lk42IAAhwMaxs38ohL-_W_aAIdTL0BAAMCAAN4AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": "Полное название: Митоз в растительных клетках — в клетках апикальной зоны корешка лука"
+  },
+  {
+    "id": 16,
+    "name": "Митоз животной клетки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMgaXDCElzcS3_a7xB86Ys4lsppA9kAAh0Maxs38ohLQzTiiPNWLOoBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMhaXDCFf74kXwpaRmedoAlYtb_IRQAAh4Maxs38ohLiHs4kOlL2pMBAAMCAAN4AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": "Полное название: Митоз в клетках краевой зоны печени аксолотля (митоз животной клетки)"
+  },
+  {
+    "id": 17,
+    "name": "Митоз яйцеклеток лошадиной аскариды",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMiaXDCHNgXBc9md5NXOSxD7nQdN20AAh8Maxs38ohL1y9RftxbdHsBAAMCAAN3AAM4BA",
+    "drawing": "askarr.png",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "name": "Амитоз в клетках эпителия мочевого пузыря",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMjaXDCHyGpTEZR-fCRweDbHsHx_WQAAiAMaxs38ohLg8CIXWEPFpoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMkaXDCIbgWrCDEB9SaKAhvLjp1SNUAAiEMaxs38ohLjHxAFq5R2ioBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "Сперматозоиды морской свинки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMlaXDCJB-3lD_WGwQ0bKWpe5QNPLIAAiIMaxs38ohL21jK1ZQRfVMBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMmaXDCJoB4qoGbWN0XBWBIJHXgyZMAAiMMaxs38ohLoOZkQyKpCgsBAAMCAAN4AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "Строение яичника и яйцеклетки млекопитающих",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMnaXDCKOX7ZLjhvWtfOYnOlQlf99IAAiQMaxs38ohL5oQOAAHO2uf4AQADAgADeAADOAQ",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMoaXDCZJtPPuO8C6X_0AABplIrIDahAAImDGsbN_KIS4S830HiJ8FIAQADAgADdwADOAQ",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "name": "Дробление зиготы лягушки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMpaXDCZ-tvL7bSBEv2l_7cKxJIWawAAicMaxs38ohLgrWWHReKENYBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMqaXDCaUtnY61QNYB_WFKITc7OpskAAigMaxs38ohLwmW0QEuW4cQBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-пикрофуксин",
+    "description": "Полное название:Дробление яйца (зиготы) лягушки "
+  },
+  {
+    "id": 22,
+    "name": "Бластула лягушки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMraXDCbXlUhGyzN8lWE2oQOQO3Q1IAAikMaxs38ohLCvwZXc7LHvABAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMsaXDCb5Hm2FC3EjKX8pKdkOytNDsAAioMaxs38ohLjCDfcHRPpdMBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-пикрофуксин",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Гаструла амфибий",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMtaXDCcflhr6dQEfqNAQ65yBMqs_YAAisMaxs38ohLtVDi9zAaPw4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMuaXDCc7u45g6FHS8HjKvzHGU5zYEAAiwMaxs38ohLQ3VHximW8sYBAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-пикрофуксин",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Поздняя нейрула лягушки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMvaXDCdQhxZdqdtTd2NG0vC2e8O7cAAi0Maxs38ohLF5Edh9jhAsoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMwaXDCd0LEy9PX0VC0FmE1rcdraagAAi4Maxs38ohLmq_pH_T37_kBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-пикрофуксин",
+    "description": "на препаратах может быть разная стадия нейрулы, их необходимо будет указать"
+  },
+  {
+    "id": 25,
+    "name": "Однослойный плоский эпителий",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMxaXDCeVA8hoHBFjWbQ-effdsd6R4AAi8Maxs38ohLobj_2fTOWqEBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMyaXDCe_Hbjb6sfeMFVh5EpxhxqbYAAjAMaxs38ohL2h7fFP8cztoBAAMCAAN4AAM4BA",
+    "staining": "импрегнация серебром, докраска ядер гематоксилином",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "Однослойный кубический эпителий",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMzaXDCfeVRARFWRZLx5Ae4E2Ds-NAAAjEMaxs38ohL9DmO46grSfwBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAM0aXDCjkQCmQcn6Xw8VTTCgd2TEoYAAjIMaxs38ohLGMA11LDsXKQBAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "Однослойный призматический каемчатый эпителий тонкой кишки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM1aXDCkJwD2d7Sm9Y-PrjfIky5UrMAAjMMaxs38ohL6fLjpOSe6QcBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAM2aXDCtUjqyxBMpwwyz4PMNWoMJuEAAjUMaxs38ohL3C3sB3pne6UBAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "Многослойный плоский неороговевающий эпителий роговицы глаза",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM3aXDCt5kBwlCZVvXPUJppjERPzesAAjcMaxs38ohLZ91uvwi-Z2IBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAM4aXDCueCL7RVlZhXmdtoPaE4rO3YAAjgMaxs38ohLm6rkzbdiST0BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "Многослойный плоский ороговевающий эпителий кожи пальца человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM5aXDCu_wepWSi7jUH0tr5rCv-wpcAAjkMaxs38ohL7mfsPQNn15EBAAMCAAN4AAM4BA",
+    "drawing": "images/koja.jpeg",
+    "staining": "гематоксилин-пикрофуксин-резорцин",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "Переходный эпителий мочевого пузыря",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM6aXDCvsRPAAFGZWZ39cjP4zEqp_ewAAI7DGsbN_KIS9c4VtshATE3AQADAgADeAADOAQ",
+    "drawing": "images/epida.jpeg",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Мерцательный эпителий кишечника беззубки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM7aXDCwbnX7kPxaHB9x-nyPZQ_0eEAAj4Maxs38ohLqZdnyc69IR4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAM8aXDCxHjV2Iidb9R8o5-VE7uOIJoAAj8Maxs38ohL5cjOqvPiL6kBAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": "Полное название: Ресничный (мерцательный) эпителий кишечника беззубки"
+  },
+  {
+    "id": 32,
+    "name": "Сальная железа в коже с волосом",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM9aXDCxhIFBLUoRiueHt6nc16NqDUAAkAMaxs38ohL8boSyJoyZssBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAM-aXDCyDQIJyJ7VhlWUcvY6CnI9HEAAkEMaxs38ohLHIc5hzERDWkBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "name": "Мезенхима зародыша курицы",
+    "photo": "AgACAgIAAxkDAAMpaXCzve9Kf9dafgcodb80XIYAAZeaAAJBD2sbzimJS-NeLZFBHKq5AQADAgADeAADOAQ",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANAaXDCzL01jINkLzeOIFvdr23CbOMAAkIMaxs38ohLUnKRe9l_H8sBAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "name": "Мазок крови лягушки",
+    "photo": "AgACAgIAAyEGAATbcdVRAANBaXDCzlbLBqUbk7hbfIMtCblJ1BMAAkQMaxs38ohLKmpyfwmXIz4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANCaXDC96HgcL11-Js4m-PHeQtH0HkAAkkMaxs38ohLmCPBV02r4VEBAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "name": "Мазок крови человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAANDaXDC-WjDuI5Zq9emAAGDxupdIhSeAAJKDGsbN_KIS6bMKknO4uABAQADAgADeAADOAQ",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANEaXDC-yTpQzz_QOXYfkjAiMa9IvwAAksMaxs38ohLJCC1n2uca3kBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "изучение на иммерсионном объективе"
+  },
+  {
+    "id": 36,
+    "name": "Мазок крови взрослого человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAANFaXDDDkZok6gk9Va8K0iJAj5L8FMAAkwMaxs38ohLGtVxkF8JJlwBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANGaXDDEjayiycm8mZw_u9L9ywECoUAAk0Maxs38ohLOIaYuN4ofnABAAMCAAN5AAM4BA",
+    "staining": "азур-II-эозин по Романовскому",
+    "description": "изучение на иммерсионном объективе"
+  },
+  {
+    "id": 37,
+    "name": "Рыхлая волокнистая соединительная ткань из подкожной клетчатки",
+    "photo": "AgACAgIAAxkDAAMtaXCzxJdVYmlTnTRZhypyWW1dKNwAAkYPaxvOKYlLgVA_bxydgUsBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAxkDAAMyaXCzzQzvEx3uydsrxQAB5Wqcgd02AAJJD2sbzimJSzAJvJLSbR-CAQADAgADeAADOAQ",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 38,
+    "name": "Накопление краски в гистиоцитах подкожной клетчатки",
+    "photo": "AgACAgIAAyEGAATbcdVRAANJaXDDGEsvn_RH6DAmseQ5QRzerG4AAk4Maxs38ohL40R-CfJcqeMBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANKaXDDGv8O32Av4g6YOw5K-zIxPfIAAk8Maxs38ohLrnoF18x_zz4BAAMCAAN5AAM4BA",
+    "staining": "трипановая синь",
+    "description": ""
+  },
+  {
+    "id": 39,
+    "name": "Плотная волокнистая неоформленная соединительная ткань. Кожа пальца человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAANLaXDDHEy9wRa9EMeoddAHXvYBXqUAAlAMaxs38ohLcNahd4nZl8kBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANMaXDDKLNrwhOaKjIi2ihQCukzinQAAlEMaxs38ohLjpDQ6dxc7NkBAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-пикрофуксин, резорцин-фуксин",
+    "description": ""
+  },
+  {
+    "id": 40,
+    "name": "Плотная оформленная волокнистая соединительная ткань. Сухожилие в продольном разрезе",
+    "photo": "AgACAgIAAyEGAATbcdVRAANNaXDDKl9PlWp8TffXcCQCXVjBjyMAAlIMaxs38ohLJQq_Zed6z2IBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANOaXDDLNIHBJttufPrtbdbTgItdPsAAlMMaxs38ohLTfpgQCGwblUBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 41,
+    "name": "Плотная оформленная волокнистая соединительная ткань. Сухожилие в поперечном разрезе",
+    "photo": "AgACAgIAAyEGAATbcdVRAANPaXDDLjh4cIQBX9C6K8mvv9H6CFIAAlQMaxs38ohLcf-jwcEbth8BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANQaXDDMQz2V_Mg51QcEf4X05jgWSIAAlUMaxs38ohLpu38UQ0RK2MBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "name": "Плотная оформленная волокнистая соединительная ткань эластического типа",
+    "photo": "AgACAgIAAyEGAATbcdVRAANRaXDDMzIUrqQSYXmPt_fpeeT697oAAlYMaxs38ohLLPDoXi1p584BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANSaXDDNZKjZnPmb8G78Z22hysKxMAAAlcMaxs38ohLROjgFzWliegBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-пикрофуксин",
+    "description": ""
+  },
+  {
+    "id": 43,
+    "name": "Ретикулярная ткань лимфатического узла",
+    "photo": "AgACAgIAAyEGAATbcdVRAANTaXDDN-JrwLydHTuQGAgPR6VBVYgAAlkMaxs38ohLlrUiUfnzVNgBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANUaXDDOXidPWTjoAZv0oVaI-I-43EAAloMaxs38ohLZazv9klqCMUBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 44,
+    "name": "Белая жировая ткань сальника кошки",
+    "photo": "AgACAgIAAyEGAATbcdVRAANVaXDDO0v3L0q1vZFeQRoi2aEBjL8AAlsMaxs38ohL0PVQ1GGOdGIBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANWaXDDPcF-ip9vReIX9e6BUduboPIAAlwMaxs38ohLidzEDb5RbFMBAAMCAAN5AAM4BA",
+    "staining": "судан III, гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 45,
+    "name": "Гиалиновый хрящ. Ребро теленка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMGaXDBuXP88ViF92ymHW49Cu7w1ZAAAwxrGzfyiEsGld5HILsTMAEAAwIAA3gAAzgE",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAMHaXDBu0nN6w9mXqm-9GWTYX5nHKoAAgEMaxs38ohLzm58SH28Nx8BAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "name": "Эластический хрящ ушной раковины",
+    "photo": "AgACAgIAAyEGAATbcdVRAANZaXDDQ-SdsCGcyxWXIuCRGZzsmYoAAl0Maxs38ohLxYqbg26DjzMBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANaaXDDRmPpMwi6bHnwOAt6bacWT7IAAl4Maxs38ohLHm2VFrVnyfMBAAMCAAN5AAM4BA",
+    "staining": "орсеин",
+    "description": ""
+  },
+  {
+    "id": 47,
+    "name": "Волокнистый хрящ",
+    "photo": "AgACAgIAAyEGAATbcdVRAANbaXDDSE1DVbhMIs_vPQX03tycDAoAAl8Maxs38ohLO9c5df36558BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANcaXDDSt16vQoxjhy8JuLVInztHRUAAmAMaxs38ohLCI0R5bLWZoMBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 48,
+    "name": "Грубоволокнистая ткань. Костные клетки жаберной крышки селедки",
+    "photo": "AgACAgIAAyEGAATbcdVRAANdaXDDTCqJSg4JMGOYKJt222jOj-cAAmEMaxs38ohLw-WejLdXwCoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANeaXDDTnoJxlUM2WkjBVKrL7dptUIAAmIMaxs38ohLFdojO1Lz3ZIBAAMCAAN4AAM4BA",
+    "staining": "тотальный неокрашенный препарат",
+    "description": "их только со сперматозоидами можно перепутать..."
+  },
+  {
+    "id": 49,
+    "name": "Пластинчатая костная ткань диафиза трубчатой кости",
+    "photo": "AgACAgIAAyEGAATbcdVRAANfaXDDUOAZbtrq7fonv1we77jVhpcAAmMMaxs38ohL0lUyb_YSwDQBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANgaXDDrbU-jcT0XqD4RSV2NTmvYFIAAmcMaxs38ohL21MN_ZptVlYBAAMCAAN3AAM4BA",
+    "staining": "тионин-пикриновая кислота. Препарат декальцианированный",
+    "description": ""
+  },
+  {
+    "id": 50,
+    "name": "Развитие кости из эмбриональной соединительной ткани. Нижняя челюсть зародыша свиньи",
+    "photo": "AgACAgIAAyEGAATbcdVRAANhaXDDsrePY4oCjY7bN09TrfCBDKMAAmgMaxs38ohLd7YXBt5h6zEBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANiaXDDtBUOCGzh0qotZUkz2LFiSsoAAmkMaxs38ohLAAHjRC1oWbgRAQADAgADeQADOAQ",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 51,
+    "name": "Развитие кости на месте хряща. Трубчатая кость зародыша свиньи",
+    "photo": "AgACAgIAAyEGAATbcdVRAANjaXDDtvp3qdurDdcsjIcrJeQZ9FkAAmoMaxs38ohLa0bzxuWmT5EBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANkaXDDua9kYmHssHNG0lEP5XbdHJEAAmsMaxs38ohLpvYspFqQDjcBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 52,
+    "name": "Клетки гладкой мышечной ткани",
+    "photo": "AgACAgIAAyEGAATbcdVRAANlaXDDu_IuxpH9sN68b4sXSwM4Z1UAAm0Maxs38ohLJabUyECBR-ABAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANmaXDDvaPxf2rh6FoyvhwcLr_zGhMAAm4Maxs38ohLqSwb61GW9_MBAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 53,
+    "name": "Гладкая мышечная ткань стенки мочевого пузыря",
+    "photo": "AgACAgIAAxkDAAMlaXCztYF-2qumi1kRbcezM1bWCcIAAj8PaxvOKYlLmJL1I9VNL7EBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANoaXDD_qTPj1IeemGNY5fZzeLKEVsAAnYMaxs38ohLfFqyTQeMepoBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "name": "Поперечно-полосатая мышечная ткань",
+    "photo": "AgACAgIAAyEGAATbcdVRAANpaXDEAAGhp4wZp9pJobpYAVwEcpfoAAJ3DGsbN_KIS-eJ9c3c3hzoAQADAgADeAADOAQ",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANqaXDEF1E-BP0S0XZtWS6zqLb6EpUAAnkMaxs38ohLGvOeyHnyydgBAAMCAAN3AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 55,
+    "name": "Поперечно-полосатая сердечная мышечная ткань",
+    "photo": "AgACAgIAAyEGAATbcdVRAANraXDEGrVa8X7PFn89_IbsijAZVh8AAnoMaxs38ohL-SBKcBtuiToBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANsaXDEHIGgfVUu5h8sZG7mrDljjaEAAnsMaxs38ohLzPUDDLVOTXIBAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 56,
+    "name": "Нейрофибриллы в мультиполярных нервных клетках",
+    "photo": "AgACAgIAAyEGAATbcdVRAANtaXDEHwR66UdgRGjX1QRHyJ01rP8AAnwMaxs38ohLgsYuKBFzGsEBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANuaXDEIcXABiLdgHojxJtlM4vwnc4AAn0Maxs38ohLC5prxJv2WbQBAAMCAAN5AAM4BA",
+    "staining": "импрегнация азотнокислым серебром",
+    "description": ""
+  },
+  {
+    "id": 57,
+    "name": "Тигроидное вещество в мультиполярных нейронах и эпендимная глия",
+    "photo": "AgACAgIAAyEGAATbcdVRAANvaXDELSsfWI106HSbfuFlGZ1W3BoAAn8Maxs38ohLTEMu3NPZrk4BAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANwaXDERexxMYJiHMEKMp3btzSwSakAAoIMaxs38ohL3y4MYYLu330BAAMCAAN3AAM4BA",
+    "staining": "метиленовый синий",
+    "description": "Полное название: Тигроидное вещество (базофильное вещество, субстанция Ниссля) в мультиполярных нейронах и эпендимная глия"
+  },
+  {
+    "id": 58,
+    "name": "Безмякотные нервные волокна",
+    "photo": "AgACAgIAAyEGAATbcdVRAANxaXDER1XmHI12tcwCrYbItpt4kLwAAoMMaxs38ohL3FVGyy5xfG0BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAANyaXDESXbNxj8xW8mR2JBzmnrJPaUAAoQMaxs38ohLLitWowlpt9cBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 59,
+    "name": "Миелиновые нервные волокна",
+    "photo": "AgACAgIAAyEGAATbcdVRAANzaXDES5pI3AaJt94G_PxRNTJYjekAAoUMaxs38ohLOJagIzlsVn4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN0aXDETSN6lIxRVQvLguFTZ92Q3loAAocMaxs38ohL-8aqyIEJCm4BAAMCAAN4AAM4BA",
+    "staining": "четырехокись осмия",
+    "description": ""
+  },
+  {
+    "id": 60,
+    "name": "Инкапсулированное нервное окончание (тельце Фатера – Пачини) в коже пальца человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN1aXDEYwJ8-v-UP6Po6-zIjqwjZLoAAosMaxs38ohLboxo_J-mdc4BAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN2aXDEbXN1lEafnSrLwS1-zeFvj7YAAowMaxs38ohLcuF46-CToHABAAMCAAN3AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 61,
+    "name": "Клетки макроглии (астроглия). Кора головного мозга",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN3aXDEb9nlhBkQkMfNRSBGnqcrbH0AAo0Maxs38ohLKZAMZQuBqtYBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN4aXDEcdnqKHvW4oWh2cNAbDg1XAYAAo4Maxs38ohLWx83t0SCnlABAAMCAAN4AAM4BA",
+    "staining": "импрегнация серебром",
+    "description": ""
+  },
+  {
+    "id": 62,
+    "name": "Поперечный срез 96-часового зародыша курицы",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN5aXDEdAfN-M6pwC68MfRzVO1df08AAo8Maxs38ohLAzaXBesNOSoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN6aXDEe7Fw5Ulx-JsbF31NfHToj1IAApEMaxs38ohLmqDBruxPWPsBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 63,
+    "name": "Спинальный ганглий",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN7aXDEfWn0sHQnWIeRTo6oPpxkvA0AApIMaxs38ohL6LKWcK_x8rIBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN8aXDEgWUGuwQxJZ_KmsjCIauytfcAApMMaxs38ohLFj_pVtPLgJgBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 64,
+    "name": "Спинной мозг (поперечный срез)",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN9aXDEgwkzwaanWEBc4HrBMJqiqIQAApUMaxs38ohLdbeB54VqEDUBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAN-aXDEhUK_iWrDrQ1lRBJXppVCNdEAApYMaxs38ohLAXVseIiXPmsBAAMCAAN4AAM4BA",
+    "staining": "импрегнация азотнокислым серебром",
+    "description": ""
+  },
+  {
+    "id": 65,
+    "name": "Кора мозжечка млекопитающего",
+    "photo": "AgACAgIAAyEGAATbcdVRAAN_aXDEiW0omEOT44heY9-EvpSvgtAAApcMaxs38ohLKeU2eA7x53sBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOAaXDEi9CviJiqHEPqlIbQQsxt0MoAApgMaxs38ohLRHRaLUUXUjkBAAMCAAN5AAM4BA",
+    "staining": "серебрение по Гольджи – Дейнеке",
+    "description": ""
+  },
+  {
+    "id": 66,
+    "name": "Кора больших полушарий млекопитающего",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOBaXDEmW6bRUXN5tU0PsRXsLppTCcAApoMaxs38ohLNsbRwWozwkABAAMCAAN5AAM4BA",
+    "drawing": "хз",
+    "staining": "серебрение по Гольджи – Дейнеке",
+    "description": ""
+  },
+  {
+    "id": 67,
+    "name": "Роговица глаза",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOCaXDEmsKazPPMs8OsS0yjTQJA_rEAApsMaxs38ohLSrBNmNG6Ti4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAODaXDEnTwxecsCSQik9OyEcJOw7kAAAp0Maxs38ohLtzRuOlxgqVoBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 68,
+    "name": "Задняя стенка глаза (сетчатка)",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOEaXDEn4M84ICkJ_yyQJ5J3GGo_yQAAp4Maxs38ohLHznzemfzfvQBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOFaXDEonQ7Ara9OH9DknXEsYDMnDsAAp8Maxs38ohLnqj4BQpPMF8BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 69,
+    "name": "Кортиев орган",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOGaXDEpmBWiL5dZe52Zt99SxG7pV8AAqEMaxs38ohL7bm0oVPWfU4BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOHaXDEqG5csldwVgy_hZtPIsCqnrEAAqIMaxs38ohLbK4-oUVt7-UBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 70,
+    "name": "Листовидные сосочки языка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOIaXDEqppcCoCvk_Y9umWf0qT3Kw0AAqMMaxs38ohLIzJ3NeevirABAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOJaXDErDHxnArOeEeyt6HkLquTOiIAAqUMaxs38ohLg5qrMLxeIRUBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 71,
+    "name": "Артериолы, венулы, капилляры",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOKaXDEr9LjaPq_MVPNtZOXihYLVBAAAqcMaxs38ohLXDksFUpqbt4BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOLaXDEsR9oQtUX9VNJhrMMfJOzZn0AAqgMaxs38ohL1M9Zh9jG5wYBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 72,
+    "name": "Артерия эластического типа. Аорта",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOMaXDEuVpmCOcMmu7JYFFjWNys9NwAAqkMaxs38ohLnaIoyhTXvPwBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAONaXDEvMqj3Zg1aSn4hZ_r-O6sA3gAAqsMaxs38ohLhkgCDbx3XAIBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин; орсеин",
+    "description": "слева орсеин, справа г-э"
+  },
+  {
+    "id": 73,
+    "name": "Артерия мышечного типа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOOaXDEwzAw-WsoWUls6FUxxDxU1RAAAqwMaxs38ohLxz0hOyafFa4BAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOPaXDExuE-XtWB64VCXNA63FQhqLoAAq0Maxs38ohLJ3OyXsRQmj4BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 74,
+    "name": "Сосудисто-нервный пучок",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOQaXDEyLMwDbDPD-4vT7D4xf2WitoAAq4Maxs38ohLi6y_j-bAIYUBAAMCAAN4AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 75,
+    "name": "Бедренная вена кошки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAORaXDEyzQLwTGwXMnTQXSbngF7EOoAArAMaxs38ohLq8Hs9GTMGJYBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOSaXDEzbLN8YwLCietBiSEX370qQADsQxrGzfyiEu2z6ZHTDUDWQEAAwIAA3kAAzgE",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 76,
+    "name": "Крупная вена: стенка нижней полой вены",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOTaXDE0P94ApiOdyCDLg1INGVYnh0AArIMaxs38ohLYyb0GT-tBGUBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOUaXDE0qwl7TUez6bl9Mn4Su0pVM0AArMMaxs38ohLdj5ZMhC5ebkBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 77,
+    "name": "Сердце: продольный разрез. Миокард",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOVaXDE1OA_p3FscChVenqZfdADPDkAArQMaxs38ohL04avcOMRTH4BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOWaXDE186I19n3xKfH30T-JLLiAQ4AArUMaxs38ohLwRVbH-Ua0GABAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин",
+    "description": ""
+  },
+  {
+    "id": 78,
+    "name": "Стенка сердца быка: волокна Пуркинье",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOXaXDE2my05Eo57SkWVPmotR_YHbUAArcMaxs38ohLmZqXMBjkQK4BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOYaXDE3CZ04fAu1Kr77BNTWROIGLYAArgMaxs38ohLOZ5MY-9f9ZgBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 79,
+    "name": "Красный костный мозг. Срез",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOZaXDE4YthiWCENE1JLA7MhNaB64gAArkMaxs38ohLC-X9o8hA-u0BAAMCAAN4AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 80,
+    "name": "Красный костный мозг. Мазок",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOaaXDE5r1j1j_v1xQr0Lnh-T2OC1AAAroMaxs38ohLvrAgBDle_fcBAAMCAAN4AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 81,
+    "name": "Тимус",
+    "photo": "AgACAgIAAyEGAATbcdVRAAObaXDE7DyGERua5DocQ6Rzo_DgYsIAAr0Maxs38ohL8LQoRR6Lm_wBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOcaXDE7km-P9Pbcg-sEs_d9cIMPGYAAr4Maxs38ohLtaPyaGRa2pQBAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "тимус легко отличить от других препаратов. Он имеет дольчатое строение, более белое мозговое вещество, а его окружает более темное корковое вещество"
+  },
+  {
+    "id": 82,
+    "name": "Лимфатический узел",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOdaXDE8ndkwlSkqjK9_qLb9HoSRGUAAr8Maxs38ohLKr-EUtg2MIgBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOeaXDE9Z18j56EH1z8jT2UcvlcK3sAAsAMaxs38ohLZvy-UIXFPFIBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 83,
+    "name": "Селезенка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOfaXDE-1ZKXno19cm9Lz-irbTrX2YAAsEMaxs38ohL3t6yfMQ7J1gBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOgaXDE_qdkrUerO7UCNyLeV2AgP1IAAsIMaxs38ohLK2x1bH5zLV8BAAMCAAN4AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 84,
+    "name": "Околоушная слюнная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOhaXDFBZsYiM52AAGKoHtX48xC2SWnAALDDGsbN_KIS_84nBYOE3RSAQADAgADdwADOAQ",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 85,
+    "name": "Подъязычная слюнная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOiaXDFCVjm4NSkgmj6-W5yM4Tsn2EAAsYMaxs38ohLRr3NwUaGKxYBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOjaXDFDJSUcR7pWTag8Ee5eYA8X6sAAscMaxs38ohLk_ssBoRtqRUBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 86,
+    "name": "Пищевод",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOkaXDFHNKF95ogWHk7uny86NtEKNkAAsgMaxs38ohLteTSXvuUtS8BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOlaXDFH81uqQI1Wy46_6vXqKElv5IAAskMaxs38ohL1R83XGJiK6UBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "железы находятся в подслизистой основе"
+  },
+  {
+    "id": 87,
+    "name": "Переход пищевода в желудок",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOmaXDFJtpMBl3PshxY9XFzTdojLCUAAsoMaxs38ohLLwPz_BFX7dIBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOnaXDFKumrNAmjMgIs4vh72YotaFIAAssMaxs38ohLdRmD54Px9woBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 88,
+    "name": "Дно желудка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOoaXDFLOyIIEINCvn0OnJXaF2l5rAAAswMaxs38ohL1AxPxt7NiScBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOpaXDFLgABaryvO0qiqGhi_KaYQv-7AALNDGsbN_KIS1P2TJYuSz-oAQADAgADeQADOAQ",
+    "staining": "гематоксилин и конго красный",
+    "description": ""
+  },
+  {
+    "id": 89,
+    "name": "Пилорическая часть желудка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOqaXDFMa2u0JULmTch_NFfDl9ORhkAAs4Maxs38ohLKGuFsOL2ll4BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOraXDFNKjSRGZNiNbdFGeCBUPyoC4AAs8Maxs38ohLVexoNOjFJgIBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 90,
+    "name": "Тонкая (тощая) кишка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOsaXDFOuN33AW2RDmynXrot2dna-QAAtAMaxs38ohLTGp2qGvcUR8BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOtaXDFPXJLJ-XERrVGEUpSMKJ-Gr8AAtEMaxs38ohLHqn1kHLVVL0BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 91,
+    "name": "Двенадцатиперстная кишка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOuaXDFRjSxVEBhnGkjifIgb14md54AAtIMaxs38ohLOnv6-tv50QABAQADAgADeAADOAQ",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 92,
+    "name": "Толстый кишечник",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOvaXDFSLiYqZpEtpnQak5yC38Xfa8AAtQMaxs38ohLRp870sYVeO8BAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOwaXDFS5vv2w4OLIBhmH-UIEDU5fUAAtUMaxs38ohLXUAm1220rDgBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 93,
+    "name": "Печень свиньи",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOxaXDFTlEqjTzGv1DIYXuuI9z1qxIAAtYMaxs38ohLZJ8vPhIg3JEBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOyaXDFUYemL5g1VTxtSgNR7ssHPS0AAtcMaxs38ohLxcllTHm9QLABAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "отличается от печени человека тем, что отчетливо различимы дольки"
+  },
+  {
+    "id": 94,
+    "name": "Печень человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAAOzaXDFU7vauMehNQRl3ejBJi2C3sAAAtgMaxs38ohLgDPHJdg4wxoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAOyaXDFUYemL5g1VTxtSgNR7ssHPS0AAtcMaxs38ohLxcllTHm9QLABAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "дольки тяжело отличить одну от другой, главное увидеть центральные вены"
+  },
+  {
+    "id": 95,
+    "name": "Поджелудочная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAO1aXDFWDkehmHYCmSfZg_0YdwgDWQAAtkMaxs38ohL-pcSGc0ksbUBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAO2aXDFWqAbYK94MgPSv_ME6WO8_nQAAtoMaxs38ohLgk2PFWAuAjkBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 96,
+    "name": "Трахея",
+    "photo": "AgACAgIAAyEGAATbcdVRAAO3aXDFXHm9AQYLMi_32fOlqhB-AiIAAtsMaxs38ohLqE9KQ6EU7NgBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAO4aXDFYNjXJ1P_M4ITqbdX7H6umpMAAtwMaxs38ohL8N71J9MvOlQBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 97,
+    "name": "Легкое",
+    "photo": "AgACAgIAAyEGAATbcdVRAAO5aXDFZGmjF807pXuE7CMhh9oxROIAAt0Maxs38ohLioYZvdr7LC8BAAMCAAN5AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 98,
+    "name": "Кожа пальца человека",
+    "photo": "AgACAgIAAyEGAATbcdVRAAM5aXDCu_wepWSi7jUH0tr5rCv-wpcAAjkMaxs38ohL7mfsPQNn15EBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAO7aXDFaHbLKESyPNjikLIrq50_PHMAAt4Maxs38ohL1cV0hudFbNwBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 99,
+    "name": "Кожа с волосом",
+    "photo": "AgACAgIAAyEGAATbcdVRAAO8aXDFagM_VYGgmog_70FTjgJPTtYAAt8Maxs38ohLsJYOE0g2ZZUBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAO9aXDFbRrperx9IKK8NaWJQRRTNV4AAuAMaxs38ohL3Fbc7Y9EFoEBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 100,
+    "name": "Молочная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAO-aXDFcItDZ17EH78VJ_5zeFTf2p8AAuEMaxs38ohLyFYsGQZzMaoBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAO_aXDFcp2CeXbEmWZTK5gkMuirTrAAAuIMaxs38ohLsOV0TbcouLoBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 101,
+    "name": "Гипофиз",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPAaXDFe5qQFH7GfXkCaZRq3uSEbssAAuMMaxs38ohLxxQp085D7yMBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPBaXDFfTimsJE4dxSTEwABLymtBEPQAALkDGsbN_KIS5y4MqAQfTcgAQADAgADeQADOAQ",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 102,
+    "name": "Щитовидная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPCaXDFgubwh6KAliZHMtgx2pACGGIAAuUMaxs38ohL79au8_8w5ZwBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPDaXDFhENV_fIJ1WBmeGq3PLQjiegAAuYMaxs38ohLf4GhzH4m7JUBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "красный коллоид с резорбционными пузырьками"
+  },
+  {
+    "id": 103,
+    "name": "Паращитовидная железа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPEaXDFjaDa0buZICOE9yqEJULkk9cAAucMaxs38ohLRzl3qRj01ssBAAMCAAN4AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 104,
+    "name": "Надпочечник",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPFaXDFkpV3W56QQO2hQLC3Ua63thsAAugMaxs38ohLVoCVHC_C9zwBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPGaXDFlPjVPT-tDjsvg9CnLYTrsekAAukMaxs38ohLubkxxB4V_r0BAAMCAAN5AAM4BA",
+    "staining": "железный гематоксилин, гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 105,
+    "name": "Почка",
+    "photo": "AgACAgIAAxkDAANNaXC6A_WL4lkXx8F895IdkdVzQiEAAkMPaxt2mIlL1Q63c6wFPqQBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPIaXDFnfU1lrssi-pvJoeY5YpS0f8AAuoMaxs38ohLY2vcBSV1uJ8BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": "главное - найти почечные тельца"
+  },
+  {
+    "id": 106,
+    "name": "Накопление краски почкой",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPJaXDFp-PPi827BGE0Agtkt1BK6bwAAuwMaxs38ohLfaSzx3ACgusBAAMCAAN4AAM4BA",
+    "drawing": "хз",
+    "staining": "трипановый синий, квасцовый кармин",
+    "description": ""
+  },
+  {
+    "id": 107,
+    "name": "Мочеточник",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPKaXDFsUF3jt_S8cwLuG0C9gqkGP8AAu0Maxs38ohLbVeYvy3xDwcBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPLaXDFtG5A61nq0qvXwxd-e1gtsigAAu4Maxs38ohLc45nl465_p8BAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 108,
+    "name": "Мочевой пузырь",
+    "photo": "AgACAgIAAxkDAAMlaXCztYF-2qumi1kRbcezM1bWCcIAAj8PaxvOKYlLmJL1I9VNL7EBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPNaXDF-7K3A6-QOdfMvWt4s7as4jgAAvAMaxs38ohLQ0Di1spk8iABAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 109,
+    "name": "Семенник",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPOaXDGAvtx8pxR3c7Kv_lds__xVxgAAvEMaxs38ohLEJHQ-kl3FCYBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPPaXDGBGmeOjoTFtVHG_2xsEEqWnYAAvIMaxs38ohLT8UaIl-J0iABAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 110,
+    "name": "Придаток семенника",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPQaXDGB5LusrK6my2RR98octooKyEAAvMMaxs38ohLzf1g3Cjbt1QBAAMCAAN5AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPRaXDGCVFq6r6ilmBX1plHdlA3oxkAAvQMaxs38ohLI3CXJslJiEYBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 111,
+    "name": "Простата",
+    "photo": "AgACAgIAAxkDAAMhaXCzoEOVvqRxcEeKwINPfPFPXMcAAjkPaxvOKYlLmqZIuRPwCCcBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPTaXDGEhX0ceirqu7ztN9lm4fCU6YAAvUMaxs38ohLv4MupfFsJQYBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 112,
+    "name": "Яичник кошки",
+    "photo": "AgACAgIAAyEGAATbcdVRAAMnaXDCKOX7ZLjhvWtfOYnOlQlf99IAAiQMaxs38ohL5oQOAAHO2uf4AQADAgADeAADOAQ",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPVaXDGF1tF01OuNN-benbmmbjgYegAAvYMaxs38ohL2ZvGnMMh2XkBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 113,
+    "name": "Желтое тело",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPWaXDGGTDTbJ0ScKa7zM_AbH7JF78AAvcMaxs38ohLB5lcMjvhwMwBAAMCAAN5AAM4BA",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 114,
+    "name": "Матка",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPXaXDGG8VUURulcrLhHiQLkziPlyUAAvgMaxs38ohLLYbyUm02GK4BAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPYaXDGHmzhe0nsy7zetLCbD9RtNC4AAvkMaxs38ohLkDhgsb9g0owBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 115,
+    "name": "Плацентаа",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPZaXDGJi423TizuIcVcq0jhf5G_fwAAvoMaxs38ohLUcSEXRwKWkIBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPaaXDGKZCRrCMttS31pF-z0WxL4rMAAvsMaxs38ohLXAREIbKsjrcBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 116,
+    "name": "Плацента",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPZaXDGJi423TizuIcVcq0jhf5G_fwAAvoMaxs38ohLUcSEXRwKWkIBAAMCAAN3AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPaaXDGKZCRrCMttS31pF-z0WxL4rMAAvsMaxs38ohLXAREIbKsjrcBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 117,
+    "name": "Пуповина свиньи",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPdaXDGNRQ28y09QiAmhrXKsVFT6DYAAvwMaxs38ohLt172lXj9RxsBAAMCAAN4AAM4BA",
+    "drawing": "AgACAgIAAyEGAATbcdVRAAPeaXDGN6NXZpvAzHtxHbeKA3Nwdq0AAv4Maxs38ohLZZSVDmiGabgBAAMCAAN5AAM4BA",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 118,
+    "name": "Амнион. Тотальный препарат",
+    "photo": "AgACAgIAAyEGAATbcdVRAAPfaXDGPykmlyvHZqCOmyNvjniBt6EAAw1rGzfyiEuEsuTNemyYjwEAAwIAA3cAAzgE",
+    "drawing": "хз",
+    "staining": "гематоксилин-эозин",
+    "description": ""
+  },
+  {
+    "id": 119,
+    "name": "Ворсинки хориона человека. Тотальный препарат",
+    "photo": "AgACAgIAAxkDAAMYaXCzZzW0y6aj5b7FRrEAATUCO4YNAAI3D2sbzimJS_QcoD-oAgaFAQADAgADeAADOAQ",
+    "drawing": "хз",
+    "staining": "",
+    "description": ""
+  }
+]
